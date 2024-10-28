@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Magnise</string>
+    <string name="select">Select</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="price_date_format">MMM d, h:mm:ss a</string>
+    <string name="symbol">Symbol</string>
+    <string name="price">Price</string>
+    <string name="time">Time</string>
+    <string name="no_data_for_current_price">No data for current price</string>
+    <string name="chart_label_date_format">dd/MM</string>
+    <string name="no_data_for_history">No data for history</string>
+</resources>
